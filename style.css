@@ -452,6 +452,7 @@ bottom: 20px;
     z-index: 1;
     top: 0;
     left: 0;
+    overflow: hidden;
 }
 .sec_inner{
     position: absolute;
