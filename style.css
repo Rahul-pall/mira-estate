@@ -32,8 +32,8 @@ body{
  filter: brightness(0.9),saturate(10);
  background-repeat: no-repeat;
  background-size: cover;
- z-index: 10;
- overflow-y: hidden;
+ /* z-index: 10; */
+ /* overflow-y: hidden; */
 }
 
 .section{
