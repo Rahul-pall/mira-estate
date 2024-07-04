@@ -447,6 +447,7 @@ bottom: 20px;
 
 .section2{
     position: relative;
+    overflow: hidden;
 }
 .sec_container{
     z-index: 1;
