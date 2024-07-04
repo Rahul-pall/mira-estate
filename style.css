@@ -5,10 +5,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     cursor: none;
     animation-delay: none;
-    
+    scroll-behavior: smooth;
 }
 ::-webkit-scrollbar{
     display: none;
@@ -32,7 +35,7 @@ body{
  filter: brightness(0.9),saturate(10);
  background-repeat: no-repeat;
  background-size: cover;
- /* z-index: 10; */
+ z-index: 10;
  /* overflow-y: hidden; */
 }
 
